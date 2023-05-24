@@ -5,6 +5,6 @@
 - 📫 How to reach me ...ameerbasha.shaik1908@gmail.com
 
 <!---
-ameerpython/ameerpython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ameerpython/ameerbasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
